@@ -1,6 +1,6 @@
 # tools
 
-這是專為測試用的micro:bit積木
+這是CCC為測試用的micro:bit積木
 
 ## License
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=github:lioujj/pxt-tools
+tools=github:EthanChou747/tools
 ```
